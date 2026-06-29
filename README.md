@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0319-bulb-switcher) |
@@ -130,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
