@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0319-bulb-switcher) |
 | [0989-add-to-array-form-of-integer](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0989-add-to-array-form-of-integer) |
+| [1137-n-th-tribonacci-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1518-water-bottles) |
 ## Brainteaser
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [1137-n-th-tribonacci-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1518-water-bottles) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
