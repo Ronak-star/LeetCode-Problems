@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 ## Linked List
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -176,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
