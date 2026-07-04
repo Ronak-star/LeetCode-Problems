@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Recursion
@@ -235,10 +236,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 ## Database
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0620-not-boring-movies](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0620-not-boring-movies) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
