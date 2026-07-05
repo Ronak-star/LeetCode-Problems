@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0724-find-pivot-index](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
 | ------- |
