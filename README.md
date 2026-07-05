@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0989-add-to-array-form-of-integer) |
+| [1046-last-stone-weight](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
 |  |
