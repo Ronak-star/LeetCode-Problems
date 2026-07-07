@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0394-decode-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Recursion
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
