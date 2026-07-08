@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1046-last-stone-weight](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1046-last-stone-weight) |
@@ -227,10 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0037-sudoku-solver) |
+| [0867-transpose-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1518-water-bottles) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Memoization
