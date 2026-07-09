@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
@@ -228,11 +229,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1518-water-bottles) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
