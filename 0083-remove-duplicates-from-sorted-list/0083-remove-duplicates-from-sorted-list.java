@@ -21,12 +21,13 @@ class Solution {
 
         while(ptr!=null){
             if(ptr.val!=dummy.val){
-                ListNode temp = new ListNode(ptr.val);
-                dummy.next = temp;
+              //  ListNode temp = new ListNode(ptr.val);
+                dummy.next = ptr;
                 dummy = dummy.next;
             }
             ptr = ptr.next;
         }
+        dummy.next = null;
         return ans;
     }
 }
