@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1518-water-bottles) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Brainteaser
 |  |
 | ------- |
