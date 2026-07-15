@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
