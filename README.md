@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Linked List
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0567-permutation-in-string) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Monotonic Stack
