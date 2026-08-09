@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [0941-valid-mountain-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0941-valid-mountain-array) |
+| [0946-validate-stack-sequences](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0946-validate-stack-sequences](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0946-validate-stack-sequences) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0946-validate-stack-sequences) |
 | [1518-water-bottles](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1518-water-bottles) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2181-merge-nodes-in-between-zeros) |
