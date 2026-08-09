@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0946-validate-stack-sequences) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1446-consecutive-characters](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1446-consecutive-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
