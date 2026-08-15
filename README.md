@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1859-sorting-the-sentence) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Dynamic Programming
