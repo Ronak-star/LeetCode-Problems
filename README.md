@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2057-smallest-index-with-equal-value) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
