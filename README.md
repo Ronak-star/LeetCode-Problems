@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2129-capitalize-the-title](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2129-capitalize-the-title) |
 ## Dynamic Programming
 |  |
 | ------- |
