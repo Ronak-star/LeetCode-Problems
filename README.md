@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Linked List
 |  |
 | ------- |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Monotonic Stack
 |  |
