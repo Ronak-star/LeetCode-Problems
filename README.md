@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1518-water-bottles](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1518-water-bottles) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Brainteaser
 |  |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Memoization
 |  |
