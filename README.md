@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2465-number-of-distinct-averages](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2465-number-of-distinct-averages) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2129-capitalize-the-title) |
 | [2405-optimal-partition-of-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2405-optimal-partition-of-string) |
 | [2490-circular-sentence](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2490-circular-sentence) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
