@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2129-capitalize-the-title](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2129-capitalize-the-title) |
 | [2405-optimal-partition-of-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2405-optimal-partition-of-string) |
+| [2490-circular-sentence](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2490-circular-sentence) |
 ## Dynamic Programming
 |  |
 | ------- |
