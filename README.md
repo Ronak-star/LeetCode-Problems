@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2469-convert-the-temperature) |
 | [2544-alternating-digit-sum](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2544-alternating-digit-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2651-calculate-delayed-arrival-time) |
+| [2652-sum-multiples](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2652-sum-multiples) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Brainteaser
 |  |
