@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 ## Greedy
 |  |
 | ------- |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2562-find-the-array-concatenation-value](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2562-find-the-array-concatenation-value) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 ## Memoization
 |  |
 | ------- |
