@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2660-determine-the-winner-of-a-bowling-game) |
+| [2670-find-the-distinct-difference-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2670-find-the-distinct-difference-array) |
 ## Greedy
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2540-minimum-common-value) |
+| [2670-find-the-distinct-difference-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2670-find-the-distinct-difference-array) |
 ## Linked List
 |  |
 | ------- |
