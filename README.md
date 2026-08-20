@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2670-find-the-distinct-difference-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2670-find-the-distinct-difference-array) |
 | [2784-check-if-array-is-good](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
 | [2788-split-strings-by-separator](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2788-split-strings-by-separator) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Greedy
 |  |
 | ------- |
