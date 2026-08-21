@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2788-split-strings-by-separator](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2788-split-strings-by-separator) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2815-max-pair-sum-in-an-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2815-max-pair-sum-in-an-array) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Greedy
 |  |
 | ------- |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2788-split-strings-by-separator](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2788-split-strings-by-separator) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Dynamic Programming
 |  |
 | ------- |
