@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1528-shuffle-string) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1572-matrix-diagonal-sum](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2923-find-champion-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2923-find-champion-i) |
 ## Simulation
 |  |
