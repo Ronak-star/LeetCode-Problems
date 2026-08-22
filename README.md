@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0989-add-to-array-form-of-integer) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1518-water-bottles](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1518-water-bottles) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1408-string-matching-in-an-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1408-string-matching-in-an-array) |
@@ -608,4 +610,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1859-sorting-the-sentence) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
