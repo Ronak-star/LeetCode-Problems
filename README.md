@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1046-last-stone-weight) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1408-string-matching-in-an-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
