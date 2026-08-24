@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1436-destination-city) |
+| [1496-path-crossing](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1496-path-crossing) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1446-consecutive-characters) |
+| [1496-path-crossing](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1496-path-crossing) |
 | [1507-reformat-date](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1528-shuffle-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1624-largest-substring-between-two-equal-characters) |
