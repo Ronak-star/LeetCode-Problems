@@ -28,7 +28,12 @@ class Solution {
         if(root.val >= low && root.val <= high){
             ans += root.val;
         }
-        dfs(root.left, low, high);
-        dfs(root.right, low, high);
+        if(root.val > low){
+            dfs(root.left, low, high);
+        }
+        if(root.val < high){
+              dfs(root.right, low, high);
+        }
+       
     }
 }
