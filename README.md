@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [0576-out-of-boundary-paths](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0576-out-of-boundary-paths) |
 | [1137-n-th-tribonacci-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
