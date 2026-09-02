@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2869-minimum-operations-to-collect-elements](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2923-find-champion-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2923-find-champion-i) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [2405-optimal-partition-of-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2405-optimal-partition-of-string) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2465-number-of-distinct-averages](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [2784-check-if-array-is-good](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Hash Table
 |  |
 | ------- |
