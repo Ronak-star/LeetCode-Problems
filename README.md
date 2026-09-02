@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2788-split-strings-by-separator](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3019-number-of-changing-keys](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3019-number-of-changing-keys) |
 ## Dynamic Programming
 |  |
 | ------- |
