@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2806-account-balance-after-rounded-purchase](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3021-alice-and-bob-playing-flower-game](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3021-alice-and-bob-playing-flower-game) |
 ## Brainteaser
 |  |
 | ------- |
