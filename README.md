@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2923-find-champion-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2923-find-champion-i) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3028-ant-on-the-boundary](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3028-ant-on-the-boundary) |
 ## Greedy
 |  |
 | ------- |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
+| [3028-ant-on-the-boundary](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3028-ant-on-the-boundary) |
 ## Binary Search
 |  |
 | ------- |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2739-total-distance-traveled](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2739-total-distance-traveled) |
+| [3028-ant-on-the-boundary](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3028-ant-on-the-boundary) |
 ## Memoization
 |  |
 | ------- |
