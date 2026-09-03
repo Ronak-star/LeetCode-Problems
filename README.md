@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0989-add-to-array-form-of-integer) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0279-perfect-squares](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0509-fibonacci-number) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0279-perfect-squares) |
 | [0617-merge-two-binary-trees](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [1302-deepest-leaves-sum](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1302-deepest-leaves-sum) |
 ## Binary Search Tree
@@ -664,4 +667,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
