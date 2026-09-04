@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2923-find-champion-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2923-find-champion-i) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3028-ant-on-the-boundary](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3028-ant-on-the-boundary) |
 ## Greedy
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [2405-optimal-partition-of-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2405-optimal-partition-of-string) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Two Pointers
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [2784-check-if-array-is-good](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Hash Table
 |  |
 | ------- |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3028-ant-on-the-boundary](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3028-ant-on-the-boundary) |
 ## Binary Search
 |  |
@@ -675,4 +679,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0279-perfect-squares) |
+## Polygons
+|  |
+| ------- |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 <!---LeetCode Topics End-->
