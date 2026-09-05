@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1678-goal-parser-interpretation) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [1816-truncate-sentence](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
