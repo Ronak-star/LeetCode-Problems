@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3028-ant-on-the-boundary](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3028-ant-on-the-boundary) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Greedy
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Two Pointers
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Hash Table
 |  |
 | ------- |
