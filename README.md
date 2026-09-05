@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3028-ant-on-the-boundary](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3028-ant-on-the-boundary) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 ## Greedy
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2864-maximum-odd-binary-number) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 ## Hash Table
 |  |
 | ------- |
