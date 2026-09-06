@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3028-ant-on-the-boundary](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3028-ant-on-the-boundary) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3021-alice-and-bob-playing-flower-game) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
 ## Brainteaser
 |  |
 | ------- |
