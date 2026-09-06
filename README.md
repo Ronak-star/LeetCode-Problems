@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0791-custom-sort-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0791-custom-sort-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0791-custom-sort-string) |
 | [0997-find-the-town-judge](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1207-unique-number-of-occurrences) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0791-custom-sort-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
