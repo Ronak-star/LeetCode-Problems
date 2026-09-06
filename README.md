@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
 | [2815-max-pair-sum-in-an-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2815-max-pair-sum-in-an-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2869-minimum-operations-to-collect-elements) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Linked List
 |  |
 | ------- |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2864-maximum-odd-binary-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2864-maximum-odd-binary-number) |
 | [3019-number-of-changing-keys](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3019-number-of-changing-keys) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Dynamic Programming
 |  |
 | ------- |
