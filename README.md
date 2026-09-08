@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0621-task-scheduler](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0724-find-pivot-index](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0621-task-scheduler](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [0621-task-scheduler](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0791-custom-sort-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0791-custom-sort-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0771-jewels-and-stones](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0791-custom-sort-string) |
 | [0997-find-the-town-judge](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0997-find-the-town-judge) |
@@ -477,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
@@ -542,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
