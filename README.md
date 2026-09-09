@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0051-n-queens) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
