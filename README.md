@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0179-largest-number) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Matrix
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0079-word-search) |
 | [0867-transpose-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -668,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0101-symmetric-tree) |
