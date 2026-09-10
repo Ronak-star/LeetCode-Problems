@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0946-validate-stack-sequences) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1408-string-matching-in-an-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1436-destination-city) |
