@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1678-goal-parser-interpretation) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0576-out-of-boundary-paths](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0576-out-of-boundary-paths) |
 | [1137-n-th-tribonacci-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Bit Manipulation
 |  |
 | ------- |
