@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Greedy
 |  |
 | ------- |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3021-alice-and-bob-playing-flower-game](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Brainteaser
 |  |
 | ------- |
