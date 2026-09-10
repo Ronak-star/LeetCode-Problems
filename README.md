@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2057-smallest-index-with-equal-value](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2057-smallest-index-with-equal-value) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 ## Union-Find
 |  |
 | ------- |
