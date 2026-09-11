@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3238-find-the-number-of-winning-players](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3238-find-the-number-of-winning-players) |
 ## Greedy
 |  |
 | ------- |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3238-find-the-number-of-winning-players](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3238-find-the-number-of-winning-players) |
 ## Linked List
 |  |
 | ------- |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3238-find-the-number-of-winning-players](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3238-find-the-number-of-winning-players) |
 ## Monotonic Stack
 |  |
 | ------- |
