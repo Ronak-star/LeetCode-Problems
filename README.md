@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1496-path-crossing) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1678-goal-parser-interpretation) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [1816-truncate-sentence](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1816-truncate-sentence) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Divide and Conquer
@@ -599,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
