@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3238-find-the-number-of-winning-players](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Linked List
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3248-snake-in-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3248-snake-in-matrix) |
 ## Dynamic Programming
 |  |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3238-find-the-number-of-winning-players](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3238-find-the-number-of-winning-players) |
 ## Monotonic Stack
 |  |
