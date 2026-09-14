@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1267-count-servers-that-communicate](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0079-word-search) |
 | [0867-transpose-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0867-transpose-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1572-matrix-diagonal-sum](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2923-find-champion-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2923-find-champion-i) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1189-maximum-number-of-balloons](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1267-count-servers-that-communicate](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 ## Merge Sort
 |  |
 | ------- |
@@ -747,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1302-deepest-leaves-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
@@ -762,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0279-perfect-squares) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0617-merge-two-binary-trees) |
+| [1267-count-servers-that-communicate](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1609-even-odd-tree) |
 ## Binary Search Tree
