@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3285-find-indices-of-stable-mountains](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3452-sum-of-good-numbers](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3452-sum-of-good-numbers) |
 ## Greedy
 |  |
 | ------- |
