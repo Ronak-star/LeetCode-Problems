@@ -501,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2129-capitalize-the-title) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2278-percentage-of-letter-in-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2278-percentage-of-letter-in-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2405-optimal-partition-of-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2405-optimal-partition-of-string) |
 | [2490-circular-sentence](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2490-circular-sentence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
