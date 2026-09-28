@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3028-ant-on-the-boundary](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3028-ant-on-the-boundary) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3467-transform-array-by-parity](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3467-transform-array-by-parity) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3021-alice-and-bob-playing-flower-game) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1291-sequential-digits) |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -876,4 +880,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
