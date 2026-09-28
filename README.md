@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0319-bulb-switcher) |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Divide and Conquer
 |  |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1291-sequential-digits) |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 ## Number Theory
 |  |
 | ------- |
