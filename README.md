@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Math
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0319-bulb-switcher) |
+| [0342-power-of-four](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
