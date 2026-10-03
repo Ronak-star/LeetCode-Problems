@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0136-single-number) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0338-counting-bits) |
