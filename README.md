@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3151-special-array-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3151-special-array-i) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3238-find-the-number-of-winning-players](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3248-snake-in-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3248-snake-in-matrix) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2923-find-champion-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2923-find-champion-i) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3446-sort-matrix-by-diagonals) |
 ## Simulation
 |  |
