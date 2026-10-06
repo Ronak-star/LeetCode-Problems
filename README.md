@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1504-count-submatrices-with-all-ones](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
 | [1528-shuffle-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1528-shuffle-string) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1572-matrix-diagonal-sum](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
+| [1504-count-submatrices-with-all-ones](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
 | [1544-make-the-string-great](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0576-out-of-boundary-paths](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0576-out-of-boundary-paths) |
 | [1137-n-th-tribonacci-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1504-count-submatrices-with-all-ones](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Bit Manipulation
 |  |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
+| [1504-count-submatrices-with-all-ones](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2923-find-champion-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2923-find-champion-i) |
@@ -724,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1504-count-submatrices-with-all-ones](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
 ## Quickselect
 |  |
 | ------- |
