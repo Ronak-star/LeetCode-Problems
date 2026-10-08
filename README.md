@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 ## Bit Manipulation
 |  |
 | ------- |
