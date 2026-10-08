@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2438-range-product-queries-of-powers](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2438-range-product-queries-of-powers) |
 | [2460-apply-operations-to-an-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
+| [2438-range-product-queries-of-powers](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2438-range-product-queries-of-powers) |
 | [2485-find-the-pivot-integer](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2485-find-the-pivot-integer) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3028-ant-on-the-boundary](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3028-ant-on-the-boundary) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2438-range-product-queries-of-powers](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2438-range-product-queries-of-powers) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
