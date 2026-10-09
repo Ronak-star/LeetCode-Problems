@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0791-custom-sort-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0791-custom-sort-string) |
+| [0869-reordered-power-of-2](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0869-reordered-power-of-2) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0771-jewels-and-stones](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0791-custom-sort-string) |
+| [0869-reordered-power-of-2](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0869-reordered-power-of-2) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0997-find-the-town-judge](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [0869-reordered-power-of-2](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0869-reordered-power-of-2) |
 | [0989-add-to-array-form-of-integer](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
@@ -687,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0204-count-primes) |
+| [0869-reordered-power-of-2](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0869-reordered-power-of-2) |
 | [1291-sequential-digits](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1291-sequential-digits) |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
@@ -714,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0621-task-scheduler) |
+| [0869-reordered-power-of-2](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0869-reordered-power-of-2) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1189-maximum-number-of-balloons](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
