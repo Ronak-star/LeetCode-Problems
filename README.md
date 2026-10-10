@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3452-sum-of-good-numbers](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3467-transform-array-by-parity) |
 | [3477-fruits-into-baskets-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3477-fruits-into-baskets-ii) |
+| [3479-fruits-into-baskets-iii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3479-fruits-into-baskets-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [3477-fruits-into-baskets-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3477-fruits-into-baskets-ii) |
+| [3479-fruits-into-baskets-iii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3479-fruits-into-baskets-iii) |
 ## String
 |  |
 | ------- |
@@ -939,10 +941,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3477-fruits-into-baskets-ii) |
+| [3479-fruits-into-baskets-iii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3479-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3477-fruits-into-baskets-ii) |
+| [3479-fruits-into-baskets-iii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3479-fruits-into-baskets-iii) |
 ## Probability and Statistics
 |  |
 | ------- |
