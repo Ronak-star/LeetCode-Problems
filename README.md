@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0867-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0941-valid-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0791-custom-sort-string) |
 | [0869-reordered-power-of-2](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0869-reordered-power-of-2) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0904-fruit-into-baskets](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1207-unique-number-of-occurrences) |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
