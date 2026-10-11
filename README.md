@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2438-range-product-queries-of-powers](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2438-range-product-queries-of-powers) |
 | [2460-apply-operations-to-an-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2465-number-of-distinct-averages) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0319-bulb-switcher) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 ## Prefix Sum
 |  |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-bitwise-ors-of-subarrays](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2438-range-product-queries-of-powers](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2438-range-product-queries-of-powers) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
