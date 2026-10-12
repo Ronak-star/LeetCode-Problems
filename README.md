@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1323-maximum-69-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1792-maximum-average-pass-ratio](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1792-maximum-average-pass-ratio) |
 | [2405-optimal-partition-of-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2405-optimal-partition-of-string) |
 | [2864-maximum-odd-binary-number](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2864-maximum-odd-binary-number) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [1816-truncate-sentence](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1816-truncate-sentence) |
