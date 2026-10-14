@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3151-special-array-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3151-special-array-i) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
+| [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3238-find-the-number-of-winning-players](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3238-find-the-number-of-winning-players) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1504-count-submatrices-with-all-ones](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
+| [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Bit Manipulation
 |  |
