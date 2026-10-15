@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3285-find-indices-of-stable-mountains](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3446-sort-matrix-by-diagonals) |
 | [3452-sum-of-good-numbers](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3467-transform-array-by-parity) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1291-sequential-digits) |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
+| [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 ## Number Theory
 |  |
 | ------- |
