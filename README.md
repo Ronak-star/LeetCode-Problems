@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3248-snake-in-matrix) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3356-zero-array-transformation-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3356-zero-array-transformation-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3446-sort-matrix-by-diagonals) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3356-zero-array-transformation-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3356-zero-array-transformation-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2485-find-the-pivot-integer) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3028-ant-on-the-boundary](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3028-ant-on-the-boundary) |
+| [3356-zero-array-transformation-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3356-zero-array-transformation-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Search
 |  |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2540-minimum-common-value) |
+| [3356-zero-array-transformation-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3356-zero-array-transformation-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3479-fruits-into-baskets-iii) |
 ## String
