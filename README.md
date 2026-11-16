@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2540-minimum-common-value) |
