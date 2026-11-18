@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3208-alternating-groups-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3208-alternating-groups-ii) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3238-find-the-number-of-winning-players](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3248-snake-in-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3248-snake-in-matrix) |
@@ -758,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ronak-star/LeetCode-Problems/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3208-alternating-groups-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3208-alternating-groups-ii) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Counting
 |  |
