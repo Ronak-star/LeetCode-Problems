@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1254-number-of-closed-islands](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0079-word-search) |
 | [0498-diagonal-traverse](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
@@ -825,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 ## Merge Sort
 |  |
@@ -904,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1254-number-of-closed-islands](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1302-deepest-leaves-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
@@ -921,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0279-perfect-squares) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/Ronak-star/LeetCode-Problems/tree/master/0617-merge-two-binary-trees) |
+| [1254-number-of-closed-islands](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1609-even-odd-tree) |
