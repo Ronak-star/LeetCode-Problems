@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3248-snake-in-matrix) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3356-zero-array-transformation-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3356-zero-array-transformation-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3238-find-the-number-of-winning-players](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Linked List
 |  |
 | ------- |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3223-minimum-length-of-string-after-operations](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3248-snake-in-matrix](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3248-snake-in-matrix) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -854,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1302-deepest-leaves-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1609-even-odd-tree](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1609-even-odd-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -903,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1302-deepest-leaves-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ronak-star/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Ronak-star/LeetCode-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
